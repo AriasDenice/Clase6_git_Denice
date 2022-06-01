@@ -11,7 +11,9 @@ CARACTERISTICAS DEL COMPUTADOR
 - Windows 10 
 - Procesador Intel(R) Core (TM) i5-8250U 
 - CPU 1.60 GHz 1.80 GHz
+- RAM 12GB 
 
 CARACTERISTICAS DEL PROGRAMA
 
 - Git Bash
+- versión 2.36.1
